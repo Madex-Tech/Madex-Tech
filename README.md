@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Maadesh
 
-I'm currently learning **Flutter (Dart)** and **Web Development**.  
+I'm currently learning **Web Development**.  
 I enjoy building practical apps with clean design and smooth functionality.
 
 ---
 
 ### 💻 What I'm Working On
 
-- 📱 Mobile apps using **Flutter**
 - 🌐 Web interfaces with **HTML**, **CSS**, **JavaScript**, and **PostgreSQL**
 - 🧪 Personal projects to sharpen full-stack skills
 
@@ -15,7 +14,7 @@ I enjoy building practical apps with clean design and smooth functionality.
 
 ### 🎯 Goals
 
-- 🚀 Build real-world apps from scratch
+- 🚀 Build real-world web apps from scratch
 - 🎨 Improve UI/UX and backend skills
 - 🤝 Collaborate on open-source projects
 
@@ -23,7 +22,7 @@ I enjoy building practical apps with clean design and smooth functionality.
 
 ### 🧰 Tech Stack
 
-`Flutter` `Dart` `HTML` `CSS` `JavaScript` `PostgreSQL`
+`HTML` `CSS` `JavaScript` `PostgreSQL`
  `Firebase` `VS Code` 
 
 ---
