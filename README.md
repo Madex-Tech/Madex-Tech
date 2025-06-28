@@ -8,7 +8,7 @@ I enjoy building practical apps with clean design and smooth functionality.
 ### 💻 What I'm Working On
 
 - 📱 Mobile apps using **Flutter**
-- 🌐 Web interfaces with **HTML**, **CSS**, **JavaScript**, and **React**
+- 🌐 Web interfaces with **HTML**, **CSS**, **JavaScript**, and **PostgreSQL**
 - 🧪 Personal projects to sharpen full-stack skills
 
 ---
@@ -23,7 +23,7 @@ I enjoy building practical apps with clean design and smooth functionality.
 
 ### 🧰 Tech Stack
 
-`Flutter` `Dart` `HTML` `CSS` `JavaScript` `React`  
+`Flutter` `Dart` `HTML` `CSS` `JavaScript` `PostgreSQL`
  `Firebase` `VS Code` 
 
 ---
