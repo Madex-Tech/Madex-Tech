@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Maadesh
 
-<!--
-**Madex-Tech/Madex-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning **Flutter (Dart)** and **Web Development**.  
+I enjoy building practical apps with clean design and smooth functionality.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I'm Working On
+
+- 📱 Mobile apps using **Flutter**
+- 🌐 Web interfaces with **HTML**, **CSS**, **JavaScript**, and **React**
+- 🧪 Personal projects to sharpen full-stack skills
+
+---
+
+### 🎯 Goals
+
+- 🚀 Build real-world apps from scratch
+- 🎨 Improve UI/UX and backend skills
+- 🤝 Collaborate on open-source projects
+
+---
+
+### 🧰 Tech Stack
+
+`Flutter` `Dart` `HTML` `CSS` `JavaScript` `React`  
+`Git` `Firebase` `VS Code`
+
+---
+
+### 📬 Contact
+
+GitHub: [github.com/Madex](https://github.com/Madex)  
+Email: _your.email@example.com_
+
+---
+
+> 💡 *"I build to learn, and I learn to build."*
