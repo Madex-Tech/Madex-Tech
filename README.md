@@ -30,8 +30,7 @@ I enjoy building practical apps with clean design and smooth functionality.
 
 ### 📬 Contact
 
-GitHub: [github.com/Madex](https://github.com/Madex)  
-Email: _your.email@example.com_
+GitHub: https://github.com/Madex-Tech  
 
 ---
 
