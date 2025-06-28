@@ -24,7 +24,7 @@ I enjoy building practical apps with clean design and smooth functionality.
 ### 🧰 Tech Stack
 
 `Flutter` `Dart` `HTML` `CSS` `JavaScript` `React`  
-`Git` `Firebase` `VS Code`
+ `Firebase` `VS Code` 
 
 ---
 
