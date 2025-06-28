@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maadesh
 
-I'm currently learning **Web Development**.  
+I'm currently learning **Full Stack Web Development**.  
 I enjoy building practical apps with clean design and smooth functionality.
 
 ---
